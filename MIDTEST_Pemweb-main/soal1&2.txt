@@ -1,0 +1,23 @@
+Nama : Raden Mahendra Ananda Soemadisoeria
+Kelas : IF 22 F
+NIM : 22416255201081
+
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? 
+(jelaskan dengan bahasa yang mudah dimengerti, bukan secara 
+harfiah/istilah)
+
+Secara sederhana, sebuah framework dalam pengembangan aplikasi adalah kerangka kerja atau struktur dasar yang telah disiapkan untuk membantu pengembang membangun aplikasi dengan lebih mudah dan efisien. Ini seperti fondasi atau kerangka rumah yang sudah ada, sehingga Anda tidak perlu memulai dari awal setiap kali ingin membuat aplikasi.
+
+*SOAL NOMOR 2
+1. Sebutkan Tema proyek yang sedang digarap : Klinik
+2. Sebutkan anggota dari proyek yang sedang di garap, 
+   berikut dengan jobdesk dari masing masing anggota:
+   1. Aep Saepul Bahri / 22416255201288 : Progammer (Coding, Membuat Website, UI/IX Desain)
+   2. Muhammad Faisal Akbar / 22416255201069 : Dokumentasi, laporan, UML
+   3. Raden Mahendra Ananda Soemadisoeria/ 22416255201081 : Database (Basis Data, Query)
+
+3. Jelaskan Permasalahan yang di dapat setelah hasil wawancara dengan client,
+   beserta hipotesa solusi yang kalian usung! :
+ 
+ Klinik Hafa medika center adalah salah satu klinik yang menyediakan layanan kesehatan secara umum. Terdapat beberapa pelayanan kesehatan yang disediakan oleh klinik tersebut antara lain praktik dokter umum dan apotek. Dalam melakukan kegiatan operasional pelayanan kesehatan , pengelola klinik masih mengandalkan media kertas untuk mencatat berbagai data. Misalnya data rekam medis, nota pembelian obat, serta nota pembayaran jasa pelayanan kesehatan. Dengan menggunakan media kertas tersebut masih relevan untuk digunakan , namun untuk digunakan berulang kali dengan jumlah yang banyak dan disimpan dalam jangka waktu yang lama menjadi tidak efektif dikarenakan rentannya terhadap kerusakan dan kehilangan. Adapun permasalaha lainnya  yang dihadapi klinik Hafa medika center yaitu tidak adanya informasi jadwal dokter yang dapat dilihat secara publik dan realtime untuk dapat di akses oleh calon pasien, sistem antrian pasien yang kurang efektif, dan ketidak efektifan proses pencarian data rekam medis pasien dan pengelolaan nota pembayaran. 
+Berdasarkan analisis studi literatur dan permasalahan, maka kami mengusulkan implementasi aplikasi managemen klinik pada studi kasus Klinik Hafa Medika. Aplikasi ini dapat di operasikan di satu platfrom yaitu web.
